@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: AltM - trial
+title: AlterMidya
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: People's Alterenative Media Network
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Journalism for the people"
+description: "Altermidya is a national network of independent and progressive media outfits and institutions"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Altermidya
 
